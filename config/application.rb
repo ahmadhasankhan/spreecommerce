@@ -6,7 +6,7 @@ require 'rails/all'
 # you've limited to :test, :development, or :production.
 Bundler.require(:default, Rails.env)
 
-module MyStore
+module Mystore
   class Application < Rails::Application
     
     config.to_prepare do

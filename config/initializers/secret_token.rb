@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-MyStore::Application.config.secret_key_base = 'b1eb84c5e8a532741018fbe76372b3c9bdab8dc99082c8275d326ee269e3ec552415aebdac27b891af5784ffba28a251479adae5d6902ffdc44c455b3f08ac33'
+Mystore::Application.config.secret_key_base = '0899bfa1b6431e051b33837daf285ac81ba3487e211cbd2969c82f1e4489f9468e6b2b4048548eb66bcd20284469b5545f8e2b07bae3892a809f459738c225a7'
